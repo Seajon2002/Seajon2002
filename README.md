@@ -15,6 +15,7 @@ Aspiring Penetration Tester, Ethical Hacker, and Cybersecurity Enthusiast.
 - Burp Suite
 - Nmap
 - Metasploit
+- Nessus
 - Git & GitHub
 
 ## 🎯 Career Goal
@@ -23,12 +24,13 @@ To become a skilled Penetration Tester and Cybersecurity Professional specializi
 
 ## 🏆 Platforms
 
+- LinkedIn: https://www.linkedin.com/in/ektearulhaque/
+
 - TryHackMe: https://tryhackme.com/p/ektearul2002
-- GitHub: https://github.com/Seajon2002
+  
 
 ## 📫 Contact
 
 - Email: seajon2502@gmail.com
-- LinkedIn: https://www.linkedin.com/in/ektearulhaque/
 
-  Update Profile README
+  
